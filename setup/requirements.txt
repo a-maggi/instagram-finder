@@ -1,0 +1,8 @@
+requests
+urllib
+face_recognition
+django
+itertools
+dlib
+configparser
+ast
